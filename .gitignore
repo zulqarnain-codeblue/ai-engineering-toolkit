@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+node_modules/
+vendor/
+.venv/
+__pycache__/
+*.pyc
+dist/
+build/
+coverage/
+playwright-report/
+test-results/
